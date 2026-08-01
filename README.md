@@ -26,6 +26,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Time series modelling
 - Probabilistic programming
 - Discworld
+- Evangelion (original, not rebuilds😅)
 
 ### Contact:
 Email: bcox@mpp.mpg.de
