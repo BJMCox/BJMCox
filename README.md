@@ -2,7 +2,7 @@
 
 You have found my GitHub 😁
 
-I am Dr. Ben(jamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I now work at the Max Planck Institute for Physics and am loosely associated with the MADMAX and LEGEND groups there. 
+I am Dr. Ben(jamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I now work at the Max Planck Institute for Physics and am loosely associated with the MADMAX and LEGEND groups here. My work is funded by Germany’s Federal Ministry of Research, Technology and Space (BMFTR) within the ErUM-Data programme under grant FKZ 05D25PC1 (DEMOS consortium).
 
 I primarily speak Python and Julia, but some C, C++, and Rust have managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
@@ -18,7 +18,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 - FlatPPL: probabilistic programming language developed with physics use cases as first class. The language describes a DAG encoding the model - this can be a likelihood, a posterior density, or a random sample. It quite intentionally does not encode analyses or algorithms - it is designed to hook in to a host language for these. If you are interested in getting involved, please drop me and/or Dr. Schulz an email. Currently in early development.
 
 ### Currently learning:
-- Deutsch (ich hoffe vor Ende meines Postdocs B2 zu erreichen)
+- Deutsch (ich hoffe vor Ende meines Postdocs B1 zu erreichen)
 - Physics (the more I learn the less I understand - they shoot lasers at walls and hope to detect light on the other side 😆)
 - Web stuff (idk why)
 - Programming for GPU (so as to tailor methods towards this paradigm, e.g. branchless and fixed working memory)
