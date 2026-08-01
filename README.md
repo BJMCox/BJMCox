@@ -1,10 +1,28 @@
+*"All models are wrong, but some are differentiable."*
+
+```julia
+# Ultra-barebones Bootstrap PF
+using Random, Distributions, Transducers, StatsBase
+Random.seed!(8675309)
+
+T, N = 100, 1000
+
+x = accumulate(+, randn(T))
+y = x .+ randn(T)
+
+f(x) = x + randn()
+g(y, x) = pdf(Normal(x, 1), y)
+
+step(x, y) = (x = f.(x); sample(x, Weights(g.(Ref(y), x)), N))
+particles = y |> Scan(step, randn(N)) |> collect
+```
 ## Hello
 
 You have found my GitHub 😁
 
 I am Dr. Ben(jamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I now work at the Max Planck Institute for Physics and am loosely associated with the MADMAX and LEGEND groups here. My work is funded by Germany’s Federal Ministry of Research, Technology and Space (BMFTR) within the ErUM-Data programme under grant FKZ 05D25PC1 (DEMOS consortium).
 
-I primarily speak Python and Julia, but some C, C++, and Rust have managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
+I primarily speak Python and Julia, but some C, C++, and Rust has managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
 Other languages include: native English, Deutsch at A2 CEFR (allegedly, doesn't feel like it). 
 
@@ -17,7 +35,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 ### Currently looking for collaborators:
 - FlatPPL: probabilistic programming language developed with physics use cases as first class. The language describes a DAG encoding the model - this can be a likelihood, a posterior density, or a random sample. It quite intentionally does not encode analyses or algorithms - it is designed to hook in to a host language for these. If you are interested in getting involved, please drop me and/or Dr. Schulz an email. Currently in early development.
 
-### Currently learning:
+### Ongoing side quests:
 - Deutsch (ich hoffe vor Ende meines Postdocs B1 zu erreichen)
 - Physics (the more I learn the less I understand - they shoot lasers at walls and hope to detect light on the other side 😆)
 - Web stuff (idk why)
@@ -26,8 +44,10 @@ My interests outside of work (that you will see scant evidence of here) include:
 ### Ask me about:
 - Time series modelling
 - Probabilistic programming
+- Particle filters
 - Discworld
 - Evangelion (original, not rebuilds😅)
+- My on again off again relationship with JAX
 
 ### Contact:
 - Email (work): bcox@mpp.mpg.de
