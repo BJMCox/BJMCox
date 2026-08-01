@@ -30,7 +30,8 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Evangelion (original, not rebuilds😅)
 
 ### Contact:
-Email: bcox@mpp.mpg.de
+- Email (work): bcox@mpp.mpg.de
+- Email (personal): get.cox@posteo.de
 
 ### Pronouns:
 they/them at this time, although living in Germany makes this hard 🥲 - if you are feeling kind lean towards sie (or just use my name) 😊. I am not in the habit of correcting people on this, however. 
