@@ -26,7 +26,7 @@ My current work is funded by Germany’s Federal Ministry of Research, Technolog
 
 I primarily speak Python and Julia, but some C, C++, and Rust has managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
-Other languages include: native English, Deutsch at A2 CEFR (allegedly, doesn't feel like it), Russian (did an A-level in it, was at B1 equivalent circa 10 years ago)
+Other languages include: native English, Deutsch at A2 CEFR (allegedly, doesn't feel like it, like I understand things but have no confidence to speak, but tbh that is the same in English), Russian (did an A-level in it, was at B1 equivalent circa 10 years ago)
 
 My interests outside of work (that you will see scant evidence of here) include:
 - Ballet (Russian, relearning)
@@ -34,8 +34,10 @@ My interests outside of work (that you will see scant evidence of here) include:
   - medication thumper because I forget my patches constantly
   - divergence meter à la Steins;Gate (driven by a local sentiment model to compute a facsimile of divergence, using LED 'nixie' tubes because HV scares me)
   - mini eink note taking device
+  - shot noise based rng dice roller for ttrpgs (based on an old kindle paperwhite screen, has rule sets for common rolls in Call of Cthulhu, Wrath and Glory, FF WH40k RPGs, and, of course, DnD 5e)
 - Riflery (if you know a good club in the Munich area let me know)
 - Mountaineering (need to get back in shape 😒)
+- TTRPGs (language barrier my beloved 💔)
 
 ### Currently looking for collaborators:
 - FlatPPL: probabilistic programming language developed with physics use cases as first class. The language describes a DAG encoding the model - this can be a likelihood, a posterior density, or a random sample. It quite intentionally does not encode analyses or algorithms - it is designed to hook in to a host language for these. If you are interested in getting involved, please drop me and/or Dr. Schulz an email. Currently in early development.
