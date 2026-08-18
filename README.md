@@ -1,5 +1,3 @@
-*"All models are wrong, but some are differentiable."*
-
 ```julia
 # Ultra-barebones Bootstrap PF
 using Random, Distributions, Transducers, StatsBase
@@ -63,6 +61,13 @@ My interests outside of work (that you will see scant evidence of here) include:
 
 ### Pronouns:
 they/them at this time, although living in Germany makes this hard 🥲 - if you are feeling kind lean towards sie (or just use my name) 😊. I am not in the habit of correcting people on this, however. 
+
+
+
+*It matters not how strait the gate,
+How charged with punishments the scroll,
+I am the master of my fate:
+I am the captain of my soul.*
 
 
 <!--
