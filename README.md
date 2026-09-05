@@ -29,8 +29,6 @@ Other languages include: native English, Deutsch at A2 CEFR (allegedly, doesn't 
 My interests outside of work (that you will see scant evidence of here) include:
 - Ballet (Russian, relearning)
 - Custom hardware
-  - medication thumper because I forget my patches constantly
-  - divergence meter à la Steins;Gate (driven by a local sentiment model to compute a facsimile of divergence, using LED 'nixie' tubes because HV scares me)
   - mini eink note taking device
   - shot noise based rng dice roller for ttrpgs (based on an old kindle paperwhite screen, has rule sets for common rolls in Call of Cthulhu, Wrath and Glory, FF WH40k RPGs, and, of course, DnD 5e)
 - Riflery (if you know a good club in the Munich area let me know)
