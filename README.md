@@ -18,7 +18,7 @@ particles = y |> Scan(step, randn(N)) |> collect
 
 You have found my GitHub 😁
 
-I am Dr. Ben(jamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics and am loosely associated with the MADMAX and LEGEND groups here. 
+I am Dr. Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics - I am (very) loosely associated with the MADMAX and LEGEND groups here, but I mainly work on [BAT](https://github.com/bat/BAT.jl) and [FlatPPL](https://github.com/flatppl). 
 
 My current work is funded by Germany’s Federal Ministry of Research, Technology and Space (BMFTR) within the ErUM-Data programme under grant FKZ 05D25PC1 (DEMOS consortium).
 
@@ -39,10 +39,12 @@ My interests outside of work (that you will see scant evidence of here) include:
 - FlatPPL: probabilistic programming language developed with physics use cases as first class. The language describes a DAG encoding the model - this can be a likelihood, a posterior density, or a random sample. It quite intentionally does not encode analyses or algorithms - it is designed to hook in to a host language for these. If you are interested in getting involved, please drop me and/or Dr. Schulz an email. Currently in early development.
 
 ### Ongoing side quests:
-- Deutsch lernen
-- Physics
+- Various Julia projects:
+  - ImportanceSamplers.jl
+  - ImmutableRNGs.jl
+  - LinearTrees.jl
 - Whatever ML projects I cook up in my spare time (trees ftw)
-- Programming for GPU (so as to tailor methods towards this paradigm, e.g. branchless and fixed working memory)
+- Programming for GPU (so as to tailor methods towards this paradigm, e.g. branch-free, fixed working memory, fixed work units)
 
 ### Ask me about:
 - Time series modelling
@@ -58,7 +60,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Email (personal): bjm.cox@posteo.de
 
 ### Pronouns:
-they/them at this time, although living in Germany makes this hard 🥲 - if you are feeling kind lean towards sie (or just use my name) 😊. I am not in the habit of correcting people on this, however. 
+they/them or she/her
 
 
 
