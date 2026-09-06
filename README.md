@@ -57,7 +57,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 
 ### Contact:
 - Email (work): bcox@mpp.mpg.de
-- Email (personal): bjm.cox@posteo.de
+- Email (personal): jmcox@posteo.de
 
 ### Pronouns:
 they/them or she/her
