@@ -41,7 +41,6 @@ My interests outside of work (that you will see scant evidence of here) include:
 ### Ongoing side quests:
 - Various Julia projects:
   - ImportanceSamplers.jl
-  - ImmutableRNGs.jl
   - LinearTrees.jl
 - Whatever ML projects I cook up in my spare time (trees ftw)
 - Programming for GPU (so as to tailor methods towards this paradigm, e.g. branch-free, fixed working memory, fixed work units)
