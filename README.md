@@ -22,9 +22,9 @@ I am Dr. Jessica (formerly Benjamin) Cox, and I am a computational statistician.
 
 My current work is funded by Germany’s Federal Ministry of Research, Technology and Space (BMFTR) within the ErUM-Data programme under grant FKZ 05D25PC1 (DEMOS consortium).
 
-I primarily speak Python and Julia, but some C, C++, and Rust has managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
+I primarily speak Julia, Rust, and Python, but some C and C++ have managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
-Other languages include: native English, Deutsch at A2 CEFR (allegedly, doesn't feel like it, like I understand things but have no confidence to speak, but tbh that is the same in English), Russian (did an A-level in it, was at B1 equivalent circa 10 years ago)
+Other languages include: native English, beginner German.
 
 My interests outside of work (that you will see scant evidence of here) include:
 - Ballet (Russian, relearning)
@@ -42,6 +42,11 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Various Julia projects:
   - ImportanceSamplers.jl
   - LinearTrees.jl
+  - PureRNGs.jl
+  - TandemRNG.jl
+- FIDO2 stuff:
+  - fido2kpxc
+  - fido2lock
 - Whatever ML projects I cook up in my spare time (trees ftw)
 - Programming for GPU (so as to tailor methods towards this paradigm, e.g. branch-free, fixed working memory, fixed work units)
 
