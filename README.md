@@ -26,7 +26,7 @@ My current work is funded by Germany’s Federal Ministry of Research, Technolog
 
 I primarily speak Julia, Rust, and Python, but some C and C++ have managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
-Other languages include: native English, beginner German (A2, allegedly), and rusty Russian (B1 a decade ago, degenerating since).
+Other languages include: native English, beginner German.
 
 My interests outside of work (that you will see scant evidence of here) include:
 - Ballet (Russian, relearning)
