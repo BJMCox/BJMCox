@@ -18,13 +18,15 @@ particles = y |> Scan(step, randn(N)) |> collect
 
 You have found my GitHub 😁
 
-I am Dr. Jessica (formerly Benjamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics - I am (very) loosely associated with the MADMAX and LEGEND groups here, but I mainly work on [BAT](https://github.com/bat/BAT.jl) and [FlatPPL](https://github.com/flatppl). 
+I am Dr. Jessica (formerly Benjamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics - I am (very) loosely associated with the MADMAX and LEGEND groups here, but I mainly work on [BAT](https://github.com/bat/BAT.jl) and [FlatPPL](https://flatppl.org/). My current work is on model serialisation: software layers for the creation, transmission, evaluation, and long-term storage of statistical models (FlatPPL came out of that).
+
+More (writing, CV, projects) on [my website](https://bjmcox.github.io/).
 
 My current work is funded by Germany’s Federal Ministry of Research, Technology and Space (BMFTR) within the ErUM-Data programme under grant FKZ 05D25PC1 (DEMOS consortium).
 
 I primarily speak Julia, Rust, and Python, but some C and C++ have managed to worm through my defences. I used to speak R, MATLAB, and Fortran, but less so these days.
 
-Other languages include: native English, beginner German.
+Other languages include: native English, beginner German (A2, allegedly), and rusty Russian (B1 a decade ago, degenerating since).
 
 My interests outside of work (that you will see scant evidence of here) include:
 - Ballet (Russian, relearning)
@@ -40,6 +42,7 @@ My interests outside of work (that you will see scant evidence of here) include:
 
 ### Ongoing side quests:
 - Various Julia projects:
+  - EnsembleMCMC.jl
   - ImportanceSamplers.jl
   - LinearTrees.jl
   - PureRNGs.jl
@@ -56,7 +59,6 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Particle filters
 - Discworld
 - Evangelion (original, not rebuilds😅)
-
 ### Contact:
 - Email (work): bcox@mpp.mpg.de
 - Email (personal): jmcox@posteo.de
