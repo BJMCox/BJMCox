@@ -56,8 +56,6 @@ My interests outside of work (that you will see scant evidence of here) include:
 - Particle filters
 - Discworld
 - Evangelion (original, not rebuilds😅)
-- My on again off again relationship with JAX
-- The clear unambiguous theoretical superiority of Bayesian statistics and why it often does not work out in practice
 
 ### Contact:
 - Email (work): bcox@mpp.mpg.de
