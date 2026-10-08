@@ -18,7 +18,7 @@ particles = y |> Scan(step, randn(N)) |> collect
 
 You have found my GitHub 😁
 
-I am Dr. Jessica (formerly Benjamin) Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics - I am (very) loosely associated with the MADMAX and LEGEND groups here, but I mainly work on [BAT](https://github.com/bat/BAT.jl) and [FlatPPL](https://flatppl.org/). My current work is on model serialisation: software layers for the creation, transmission, evaluation, and long-term storage of statistical models (FlatPPL came out of that).
+I am Dr. Jessica Cox, and I am a computational statistician. My background is in spatio-temporal Bayesian signal processing (in particular, particle filters and parameter inference therein). I did my PhD in statistics at the University of Edinburgh. I now work at the Max Planck Institute for Physics - I am (very) loosely associated with the MADMAX and LEGEND groups here, but I mainly work on [BAT](https://github.com/bat/BAT.jl) and [FlatPPL](https://flatppl.org/). My current work is on model serialisation: software layers for the creation, transmission, evaluation, and long-term storage of statistical models (FlatPPL came out of that).
 
 More (writing, CV, projects) on [my website](https://bjmcox.github.io/).
 
